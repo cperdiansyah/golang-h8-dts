@@ -1,4 +1,4 @@
-module github.com/masred/scalable-web-service-with-golang/session-12/final-project
+module github.com/cperdiansyah/golang-h8-dts/final-project
 
 go 1.19
 

@@ -3,8 +3,8 @@ package repository
 import (
 	"errors"
 
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/helper"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/domain"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/helper"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/model/domain"
 	"gorm.io/gorm"
 )
 

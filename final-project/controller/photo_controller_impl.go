@@ -8,11 +8,11 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/helper"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/domain"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/http/request"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/http/response"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/service"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/helper"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/model/domain"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/model/http/request"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/model/http/response"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/service"
 )
 
 type PhotoControllerImpl struct {

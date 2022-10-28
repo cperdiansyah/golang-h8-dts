@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/domain"
+import "github.com/cperdiansyah/golang-h8-dts/final-project/model/domain"
 
 type CommentRepository interface {
 	Create(comment *domain.Comment) (err error)

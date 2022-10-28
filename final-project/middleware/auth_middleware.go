@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/helper"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/model/http/response"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/helper"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/model/http/response"
 )
 
 func AuthMiddleware() gin.HandlerFunc {

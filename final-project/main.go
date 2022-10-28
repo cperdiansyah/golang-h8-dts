@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/router"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/router"
 )
 
 func main() {

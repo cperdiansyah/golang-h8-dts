@@ -2,11 +2,11 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/app"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/controller"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/middleware"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/repository"
-	"github.com/masred/scalable-web-service-with-golang/session-12/final-project/service"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/app"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/controller"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/middleware"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/repository"
+	"github.com/cperdiansyah/golang-h8-dts/final-project/service"
 )
 
 func UserRouter(router *gin.Engine) {
